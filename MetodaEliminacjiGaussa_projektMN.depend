@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1578258393 source:c:\users\macie\desktop\wys³aæ mw mn\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<cmath>
+
+1578259099 source:c:\users\macie\desktop\maciej wicha\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<cmath>
+
+1578262880 source:c:\users\maciek\desktop\github\projekt gauss\maciej wicha\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iomanip>
+	<cmath>
+
